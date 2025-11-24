@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 201,
+    "annotations": [
+      {
+        "id": 101,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "oscar quebec mike nine indian"
+              ]
+            },
+            "id": "nsypQblwNU",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-19T20:21:52.498053Z",
+        "updated_at": "2025-11-19T20:21:52.498065Z",
+        "draft_created_at": null,
+        "lead_time": 21.57,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "1005ebee-6afc-44de-af17-f46e4d184d44",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 201,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8cd698fe-0b46a15e-9266-418d-b7ae-2ebeaddb83a5.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/8cd698fe-0b46a15e-9266-418d-b7ae-2ebeaddb83a5.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637083Z",
+    "updated_at": "2025-11-19T20:21:52.582831Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 202,
+    "annotations": [
+      {
+        "id": 102,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "uniform indian golf whiskey eight"
+              ]
+            },
+            "id": "za3lnPoAdM",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-19T20:22:17.504703Z",
+        "updated_at": "2025-11-19T20:22:17.504716Z",
+        "draft_created_at": null,
+        "lead_time": 24.639,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "7837fc68-b0d6-4760-9ce5-201f7b580553",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 202,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8345469a-0c2afbf7-1743-4dbe-a876-9553b19de4f7.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/8345469a-0c2afbf7-1743-4dbe-a876-9553b19de4f7.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637120Z",
+    "updated_at": "2025-11-19T20:22:17.586000Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 203,
+    "annotations": [
+      {
+        "id": 103,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "coffin romeo quebec yankee uniform"
+              ]
+            },
+            "id": "qmlXbG1p8E",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-19T20:22:39.174174Z",
+        "updated_at": "2025-11-19T20:22:39.174188Z",
+        "draft_created_at": null,
+        "lead_time": 21.314,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "092e368a-f8e2-414e-bbb1-e3210534a6aa",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 203,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "6452d9da-0cb29341-7323-4a8f-81d3-aa676e8cb5f6.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/6452d9da-0cb29341-7323-4a8f-81d3-aa676e8cb5f6.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637140Z",
+    "updated_at": "2025-11-19T20:22:39.269223Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 204,
+    "annotations": [
+      {
+        "id": 104,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "oscar mike uniform quebec echo"
+              ]
+            },
+            "id": "hT_mGhx1M4",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-19T20:23:01.415095Z",
+        "updated_at": "2025-11-19T20:23:01.415108Z",
+        "draft_created_at": null,
+        "lead_time": 21.818,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "01a2f48b-6db1-471b-aa07-c61040250454",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 204,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "2ef788e2-1d8e0db3-eb51-42f3-a102-684a38826dea.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/2ef788e2-1d8e0db3-eb51-42f3-a102-684a38826dea.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637159Z",
+    "updated_at": "2025-11-19T20:23:01.498961Z",
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 205,
+    "annotations": [
+      {
+        "id": 105,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "victor indian indian zulu lima"
+              ]
+            },
+            "id": "abWp7v-slO",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-19T20:23:25.115757Z",
+        "updated_at": "2025-11-19T20:23:25.115770Z",
+        "draft_created_at": null,
+        "lead_time": 23.341,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "fa7249d7-3e64-48b6-8393-f996188cbeb2",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 205,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "326701ad-2a35b4a7-f9d7-4866-aceb-5e85d60a5643.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/326701ad-2a35b4a7-f9d7-4866-aceb-5e85d60a5643.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637176Z",
+    "updated_at": "2025-11-19T20:23:25.190975Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 206,
+    "annotations": [
+      {
+        "id": 106,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "oscar juliet foxtrot five whiskey"
+              ]
+            },
+            "id": "sa9KymG73j",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:13:53.445286Z",
+        "updated_at": "2025-11-20T16:13:53.445300Z",
+        "draft_created_at": null,
+        "lead_time": 392.602,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "2a619e4c-d7af-4a28-bab1-8ae195367967",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 206,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "fc742ad1-2b8022cf-a234-4c0e-9a56-75867ae4ce8f.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/fc742ad1-2b8022cf-a234-4c0e-9a56-75867ae4ce8f.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637194Z",
+    "updated_at": "2025-11-20T16:13:53.528190Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 207,
+    "annotations": [
+      {
+        "id": 107,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "bravo victor romeo victor mike"
+              ]
+            },
+            "id": "wlY-WrkKkH",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:14:13.478374Z",
+        "updated_at": "2025-11-20T16:14:13.478388Z",
+        "draft_created_at": null,
+        "lead_time": 19.643,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "38def6e4-ee62-43d2-bd72-58bb1bd73b8c",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 207,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "4a12e3e8-2d893de4-30f0-47a5-a450-4312d4e1f611.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/4a12e3e8-2d893de4-30f0-47a5-a450-4312d4e1f611.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637212Z",
+    "updated_at": "2025-11-20T16:14:13.556213Z",
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 208,
+    "annotations": [
+      {
+        "id": 108,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "mike kilo alpha nine uniform"
+              ]
+            },
+            "id": "u1yQrDQjpz",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:14:29.738006Z",
+        "updated_at": "2025-11-20T16:14:29.738019Z",
+        "draft_created_at": null,
+        "lead_time": 15.89,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "874969ef-6c18-4d47-a40c-df425a95dcd4",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 208,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "cda06ec1-3dd07c1a-5d45-4aee-aff7-75ac4df03823.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/cda06ec1-3dd07c1a-5d45-4aee-aff7-75ac4df03823.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637230Z",
+    "updated_at": "2025-11-20T16:14:29.811266Z",
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 209,
+    "annotations": [
+      {
+        "id": 109,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "one kilo bravo foxtrot seven"
+              ]
+            },
+            "id": "fmQh3AZ0Ed",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:14:46.462200Z",
+        "updated_at": "2025-11-20T16:14:46.462214Z",
+        "draft_created_at": null,
+        "lead_time": 16.351,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "470f3aad-f80f-4326-9f1e-f7c795fa77b3",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 209,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "38d133f4-4a3f9347-11fa-4535-8d39-4ab8c56a47ef.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/38d133f4-4a3f9347-11fa-4535-8d39-4ab8c56a47ef.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637249Z",
+    "updated_at": "2025-11-20T16:14:46.554545Z",
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 210,
+    "annotations": [
+      {
+        "id": 110,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "romeo tango golf echo oscar"
+              ]
+            },
+            "id": "_OinDHj8K2",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:15:02.057880Z",
+        "updated_at": "2025-11-20T16:15:02.057894Z",
+        "draft_created_at": null,
+        "lead_time": 15.213,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "febc3445-b9e4-44a0-bc6c-5286248ddfb2",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 210,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "d22ee59a-4d8da096-5f10-4325-8da3-cee26b0c1000.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/d22ee59a-4d8da096-5f10-4325-8da3-cee26b0c1000.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637266Z",
+    "updated_at": "2025-11-20T16:15:02.141260Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 211,
+    "annotations": [
+      {
+        "id": 111,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "charlie yankee yankee foxtrot uniform"
+              ]
+            },
+            "id": "4DJKkysTKo",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:15:32.563220Z",
+        "updated_at": "2025-11-20T16:15:32.563232Z",
+        "draft_created_at": null,
+        "lead_time": 30.115,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "edf47433-d2e9-4f4d-80f7-735a6b8d7dd6",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 211,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "c2042194-5a1c0cd4-d59f-43d6-bb86-215f1a7b6e80.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/c2042194-5a1c0cd4-d59f-43d6-bb86-215f1a7b6e80.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637284Z",
+    "updated_at": "2025-11-20T16:15:32.636502Z",
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 212,
+    "annotations": [
+      {
+        "id": 112,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "foxtrot five hotel november delta"
+              ]
+            },
+            "id": "iDR1ecmU60",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:15:50.464621Z",
+        "updated_at": "2025-11-20T16:15:50.464633Z",
+        "draft_created_at": null,
+        "lead_time": 17.54,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "7732495d-0cf4-4f9a-9cb7-9ff5c97c14e7",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 212,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "dc07a217-5cf7aa21-e5ba-42ae-b87e-6de3692ae988.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/dc07a217-5cf7aa21-e5ba-42ae-b87e-6de3692ae988.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637301Z",
+    "updated_at": "2025-11-20T16:15:50.541848Z",
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 213,
+    "annotations": [
+      {
+        "id": 113,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "zero hotel hotel romeo oscar"
+              ]
+            },
+            "id": "6V-rclUrPA",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:16:06.065807Z",
+        "updated_at": "2025-11-20T16:16:06.065819Z",
+        "draft_created_at": null,
+        "lead_time": 15.24,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "0e1da9a0-319e-49a8-b363-97b0be4bce8a",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 213,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "ad0b184d-5e9d3b7c-379c-4cca-a90f-b04c43d6ae2a.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/ad0b184d-5e9d3b7c-379c-4cca-a90f-b04c43d6ae2a.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637319Z",
+    "updated_at": "2025-11-20T16:16:06.165596Z",
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 214,
+    "annotations": [
+      {
+        "id": 114,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "kilo indian delta alpha kilo"
+              ]
+            },
+            "id": "rP66fZWMOn",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:16:24.030368Z",
+        "updated_at": "2025-11-20T16:16:24.030382Z",
+        "draft_created_at": null,
+        "lead_time": 17.58,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "bb2aeefc-1685-4461-af73-51c74a92f634",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 214,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "a4a30cb3-6b0b30f0-9530-43b2-b9b3-00ee4eeef4c0.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/a4a30cb3-6b0b30f0-9530-43b2-b9b3-00ee4eeef4c0.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637336Z",
+    "updated_at": "2025-11-20T16:16:24.107168Z",
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 215,
+    "annotations": [
+      {
+        "id": 115,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "charlie five mike five foxtrot"
+              ]
+            },
+            "id": "VDB_xrSZgN",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:16:40.582633Z",
+        "updated_at": "2025-11-20T16:16:40.582647Z",
+        "draft_created_at": null,
+        "lead_time": 16.193,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "4d814ec0-90ff-47dd-97e4-e53d657b569b",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 215,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "f6f5d70e-6ca73f76-604d-4237-aaf0-af060d17c410.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/f6f5d70e-6ca73f76-604d-4237-aaf0-af060d17c410.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637354Z",
+    "updated_at": "2025-11-20T16:16:40.669201Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 216,
+    "annotations": [
+      {
+        "id": 116,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "one kilo nine seven five"
+              ]
+            },
+            "id": "z8dvuIQYqQ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:16:56.310705Z",
+        "updated_at": "2025-11-20T16:16:56.310717Z",
+        "draft_created_at": null,
+        "lead_time": 15.34,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "f0e1e242-c71d-4590-aea1-75ae06d148df",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 216,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "ed561680-6d75aaac-9e1b-4ab6-8fe4-b8c7a5eb0f81.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/ed561680-6d75aaac-9e1b-4ab6-8fe4-b8c7a5eb0f81.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637372Z",
+    "updated_at": "2025-11-20T16:16:56.393432Z",
+    "inner_id": 16,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 217,
+    "annotations": [
+      {
+        "id": 117,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "charlie zero bravo five lima"
+              ]
+            },
+            "id": "pPUbYBw73h",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:17:11.263793Z",
+        "updated_at": "2025-11-20T16:17:11.263806Z",
+        "draft_created_at": null,
+        "lead_time": 14.571,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "4f6f0f94-0b50-4ec8-9656-7f14a93de2f7",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 217,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "01852505-7f1c0d9c-fce7-4551-8f87-17c9c3af1210.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/01852505-7f1c0d9c-fce7-4551-8f87-17c9c3af1210.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637389Z",
+    "updated_at": "2025-11-20T16:17:11.340449Z",
+    "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 218,
+    "annotations": [
+      {
+        "id": 118,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "echo sierra quebec kilo zulu"
+              ]
+            },
+            "id": "mFc-96KKac",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:17:26.966682Z",
+        "updated_at": "2025-11-20T16:17:26.966695Z",
+        "draft_created_at": null,
+        "lead_time": 15.338,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "3417cfab-9ca7-4837-b0ad-070741113a1f",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 218,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "68f01346-8a4f7093-5e45-4cf6-abf5-0458e1fd8c2b.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/68f01346-8a4f7093-5e45-4cf6-abf5-0458e1fd8c2b.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637407Z",
+    "updated_at": "2025-11-20T16:17:27.045800Z",
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 219,
+    "annotations": [
+      {
+        "id": 119,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "romeo xray oscar xray quebec"
+              ]
+            },
+            "id": "WOipXBc4Gr",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:17:43.952172Z",
+        "updated_at": "2025-11-20T16:17:43.952184Z",
+        "draft_created_at": null,
+        "lead_time": 16.615,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "d1dbf9cd-373f-48b6-ae6c-b68aaf10756b",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 219,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "df3fbf25-8f91d5dd-1c0e-4c30-a5d7-bee18d70faa5.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/df3fbf25-8f91d5dd-1c0e-4c30-a5d7-bee18d70faa5.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637425Z",
+    "updated_at": "2025-11-20T16:17:44.029623Z",
+    "inner_id": 19,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 220,
+    "annotations": [
+      {
+        "id": 120,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "uniform yankee victor two whiskey"
+              ]
+            },
+            "id": "qQDn7q6IWK",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:17:59.186669Z",
+        "updated_at": "2025-11-20T16:17:59.186680Z",
+        "draft_created_at": null,
+        "lead_time": 14.874,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "2f0e4e42-1897-4137-a2d9-c200c8e812a5",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 220,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "cc2e806f-8fd9d21c-4ed8-4621-bb66-385e75778418.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/cc2e806f-8fd9d21c-4ed8-4621-bb66-385e75778418.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637442Z",
+    "updated_at": "2025-11-20T16:17:59.268559Z",
+    "inner_id": 20,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 221,
+    "annotations": [
+      {
+        "id": 121,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "eight two seven seven indian"
+              ]
+            },
+            "id": "ynxaA-gAZe",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:18:17.692977Z",
+        "updated_at": "2025-11-20T16:18:17.692992Z",
+        "draft_created_at": null,
+        "lead_time": 18.14,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "a9a4466c-ad64-4406-bb99-79ce21c47310",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 221,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "b4b945ef-09c0b5a4-956f-4520-a3d2-194202355618.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/b4b945ef-09c0b5a4-956f-4520-a3d2-194202355618.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637459Z",
+    "updated_at": "2025-11-20T16:18:17.786534Z",
+    "inner_id": 21,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 222,
+    "annotations": [
+      {
+        "id": 122,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "seven kilo echo charlie kilo"
+              ]
+            },
+            "id": "5XXW4Hl5KL",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:18:32.680406Z",
+        "updated_at": "2025-11-20T16:18:32.680420Z",
+        "draft_created_at": null,
+        "lead_time": 14.608,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "176a348e-c109-4cc7-ac02-368210fe520c",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 222,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "005825c0-9e3ab2a4-e509-4d87-854c-4d901e5eb55a.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/005825c0-9e3ab2a4-e509-4d87-854c-4d901e5eb55a.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637477Z",
+    "updated_at": "2025-11-20T16:18:32.759659Z",
+    "inner_id": 22,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 223,
+    "annotations": [
+      {
+        "id": 123,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "two xray zulu quebec sierra"
+              ]
+            },
+            "id": "KPp1uGQJ--",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:18:53.730368Z",
+        "updated_at": "2025-11-20T16:18:53.730380Z",
+        "draft_created_at": null,
+        "lead_time": 20.674,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "1864ff1c-f5a7-4350-a24c-c4a0460707f8",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 223,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "34842877-11ac9e74-334f-41ef-9d8a-b277bfcee407.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/34842877-11ac9e74-334f-41ef-9d8a-b277bfcee407.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637494Z",
+    "updated_at": "2025-11-20T16:18:53.812005Z",
+    "inner_id": 23,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 224,
+    "annotations": [
+      {
+        "id": 124,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "six xray four whiskey tango"
+              ]
+            },
+            "id": "ckRPlufkq1",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:19:11.765336Z",
+        "updated_at": "2025-11-20T16:19:11.765349Z",
+        "draft_created_at": null,
+        "lead_time": 17.676,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "3fe5bbbf-f504-4f51-ba01-5c386b4f4ddd",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 224,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "4024e908-11f3194e-3817-47c4-936e-0b8bd7d35ac3.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/4024e908-11f3194e-3817-47c4-936e-0b8bd7d35ac3.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637511Z",
+    "updated_at": "2025-11-20T16:19:11.851598Z",
+    "inner_id": 24,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 225,
+    "annotations": [
+      {
+        "id": 125,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "alpha kilo charlie five uniform"
+              ]
+            },
+            "id": "pGIQyPWd1a",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:19:29.197750Z",
+        "updated_at": "2025-11-20T16:19:29.197763Z",
+        "draft_created_at": null,
+        "lead_time": 17.065,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "084e5e14-1764-4181-82f2-3cdef7c055d8",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 225,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "abe5001a-18d5bd2b-94e0-4b33-ba52-aaed327e2dc9.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/abe5001a-18d5bd2b-94e0-4b33-ba52-aaed327e2dc9.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637528Z",
+    "updated_at": "2025-11-20T16:19:29.275100Z",
+    "inner_id": 25,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 226,
+    "annotations": [
+      {
+        "id": 126,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "six six kilo two nine"
+              ]
+            },
+            "id": "0UR94VEn1h",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:19:44.325333Z",
+        "updated_at": "2025-11-20T16:19:44.325345Z",
+        "draft_created_at": null,
+        "lead_time": 14.743,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "08542b05-b4ef-4a3f-9ae8-609febcc6459",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 226,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "4e446a25-022db231-a7d0-4b33-8cb3-ef9e3e533e45.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/4e446a25-022db231-a7d0-4b33-8cb3-ef9e3e533e45.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637545Z",
+    "updated_at": "2025-11-20T16:19:44.408104Z",
+    "inner_id": 26,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 227,
+    "annotations": [
+      {
+        "id": 127,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "echo coffin kilo alpha nine"
+              ]
+            },
+            "id": "xeFIfpdOfL",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:20:01.482693Z",
+        "updated_at": "2025-11-20T16:20:01.482706Z",
+        "draft_created_at": null,
+        "lead_time": 16.791,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "5bae7423-84d5-4d96-bf35-3e3a4daa78dc",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 227,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "918689dd-53b53f80-62d5-46c7-a7e2-5bf90b532262.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/918689dd-53b53f80-62d5-46c7-a7e2-5bf90b532262.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637562Z",
+    "updated_at": "2025-11-20T16:20:01.562570Z",
+    "inner_id": 27,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 228,
+    "annotations": [
+      {
+        "id": 128,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "one seven nine yankee delta"
+              ]
+            },
+            "id": "HDB-9VuDJF",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:20:17.234719Z",
+        "updated_at": "2025-11-20T16:20:17.234731Z",
+        "draft_created_at": null,
+        "lead_time": 15.391,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "6f08540d-58a0-46c4-8193-8f11c255c24c",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 228,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "74631d4b-61c8c211-9aad-4862-87d2-38b4aacdab50.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/74631d4b-61c8c211-9aad-4862-87d2-38b4aacdab50.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637579Z",
+    "updated_at": "2025-11-20T16:20:17.317516Z",
+    "inner_id": 28,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 229,
+    "annotations": [
+      {
+        "id": 129,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "yankee victor tango tango coffin"
+              ]
+            },
+            "id": "EJsjAok_Cd",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:20:34.577800Z",
+        "updated_at": "2025-11-20T16:20:34.577813Z",
+        "draft_created_at": null,
+        "lead_time": 16.957,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "df4a0064-4380-4959-99d7-8f752bac5283",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 229,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "560aa56e-61d09410-4b0e-49e6-b1c8-b490476560c8.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/560aa56e-61d09410-4b0e-49e6-b1c8-b490476560c8.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637596Z",
+    "updated_at": "2025-11-20T16:20:34.652880Z",
+    "inner_id": 29,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 230,
+    "annotations": [
+      {
+        "id": 130,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "golf alpha golf mike delta"
+              ]
+            },
+            "id": "QSE9eDODAg",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:20:49.538134Z",
+        "updated_at": "2025-11-20T16:20:49.538147Z",
+        "draft_created_at": null,
+        "lead_time": 14.602,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "d6c36f9d-3fd8-4d41-9fa5-a3df00c1ea54",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 230,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "ae015cfe-64f31ad4-2a3b-4f6c-90d6-a8932026001c.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/ae015cfe-64f31ad4-2a3b-4f6c-90d6-a8932026001c.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637613Z",
+    "updated_at": "2025-11-20T16:20:49.617725Z",
+    "inner_id": 30,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 231,
+    "annotations": [
+      {
+        "id": 131,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "zulu tango indian oscar foxtrot"
+              ]
+            },
+            "id": "czPQKwHI1Q",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:21:05.785009Z",
+        "updated_at": "2025-11-20T16:21:05.785022Z",
+        "draft_created_at": null,
+        "lead_time": 15.874,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "a6860c0b-be8c-40cb-b208-6f507a0fa89f",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 231,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "959e67f7-065ebf83-1e68-41b5-8cca-f3a2dc960625.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/959e67f7-065ebf83-1e68-41b5-8cca-f3a2dc960625.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637631Z",
+    "updated_at": "2025-11-20T16:21:05.880204Z",
+    "inner_id": 31,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 232,
+    "annotations": [
+      {
+        "id": 132,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "oscar echo golf tango five"
+              ]
+            },
+            "id": "PgKbb7AfoM",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:21:22.255206Z",
+        "updated_at": "2025-11-20T16:21:22.255220Z",
+        "draft_created_at": null,
+        "lead_time": 16.065,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "a966c206-e570-42ba-97fb-4dcfb5d5b6f7",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 232,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "0cdc9e51-68a34100-5ce4-4d1d-95fc-260223b2d301.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/0cdc9e51-68a34100-5ce4-4d1d-95fc-260223b2d301.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637647Z",
+    "updated_at": "2025-11-20T16:21:22.336057Z",
+    "inner_id": 32,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 233,
+    "annotations": [
+      {
+        "id": 133,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "mike whiskey foxtrot tango november"
+              ]
+            },
+            "id": "79hc4Ksx8R",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:21:40.659809Z",
+        "updated_at": "2025-11-20T16:21:40.659822Z",
+        "draft_created_at": null,
+        "lead_time": 18.017,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "96e7bf6b-56f4-4f30-8a29-78e79eb22430",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 233,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "0d1b3112-79bd342f-4a38-4b5c-bbac-f30d39c50b04.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/0d1b3112-79bd342f-4a38-4b5c-bbac-f30d39c50b04.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637664Z",
+    "updated_at": "2025-11-20T16:21:40.737076Z",
+    "inner_id": 33,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 234,
+    "annotations": [
+      {
+        "id": 134,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "uniform kilo six delta two"
+              ]
+            },
+            "id": "qxBDyqN9Nh",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:21:55.693493Z",
+        "updated_at": "2025-11-20T16:21:55.693505Z",
+        "draft_created_at": null,
+        "lead_time": 14.67,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "8ffef0eb-6b9e-4b3f-a654-293a8b4fbb5f",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 234,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "e422bde9-88fcc8ce-40fb-4c64-a293-183dd5fc1628.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/e422bde9-88fcc8ce-40fb-4c64-a293-183dd5fc1628.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637681Z",
+    "updated_at": "2025-11-20T16:21:55.777992Z",
+    "inner_id": 34,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 235,
+    "annotations": [
+      {
+        "id": 135,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "nine four foxtrot lima zero"
+              ]
+            },
+            "id": "BKNngbO6oR",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:22:10.981414Z",
+        "updated_at": "2025-11-20T16:22:10.981426Z",
+        "draft_created_at": null,
+        "lead_time": 14.923,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "7c76d52c-a0cb-4b16-9289-9f72b76cdf99",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 235,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "28919f93-93d3eef8-ff59-4acc-b30d-68746ca46222.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/28919f93-93d3eef8-ff59-4acc-b30d-68746ca46222.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637699Z",
+    "updated_at": "2025-11-20T16:22:11.061261Z",
+    "inner_id": 35,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 236,
+    "annotations": [
+      {
+        "id": 136,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "alpha uniform juliet delta charlie"
+              ]
+            },
+            "id": "IpkCF4pkxe",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:22:32.339908Z",
+        "updated_at": "2025-11-20T16:22:32.339921Z",
+        "draft_created_at": null,
+        "lead_time": 20.999,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "519aa9e6-a991-4007-aee6-5c61b7297197",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 236,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "7eb97358-94f043c8-b3ec-4889-990d-2cf6ecb90e08.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/7eb97358-94f043c8-b3ec-4889-990d-2cf6ecb90e08.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637716Z",
+    "updated_at": "2025-11-20T16:22:32.416474Z",
+    "inner_id": 36,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 237,
+    "annotations": [
+      {
+        "id": 137,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "foxtrot five golf charlie romeo"
+              ]
+            },
+            "id": "JnQ3I11_KI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:22:52.562410Z",
+        "updated_at": "2025-11-20T16:22:52.562423Z",
+        "draft_created_at": null,
+        "lead_time": 19.86,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "cac21b62-2549-44c5-8454-04103f3e09a2",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 237,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "b9821d35-111bfd14-7429-4be1-b7db-9a58332a20f8.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/b9821d35-111bfd14-7429-4be1-b7db-9a58332a20f8.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637733Z",
+    "updated_at": "2025-11-20T16:22:52.636734Z",
+    "inner_id": 37,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 238,
+    "annotations": [
+      {
+        "id": 138,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "lima yankee one xray whiskey"
+              ]
+            },
+            "id": "8z6eJpExuv",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:23:08.410533Z",
+        "updated_at": "2025-11-20T16:23:08.410546Z",
+        "draft_created_at": null,
+        "lead_time": 15.485,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "eeb44bd1-1286-4ab2-8fe3-bf46f8073884",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 238,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "e5dc0571-143cb1ad-3b11-455f-ad09-43101372d5a1.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/e5dc0571-143cb1ad-3b11-455f-ad09-43101372d5a1.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637751Z",
+    "updated_at": "2025-11-20T16:23:08.492813Z",
+    "inner_id": 38,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 239,
+    "annotations": [
+      {
+        "id": 139,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "tango xray delta foxtrot three"
+              ]
+            },
+            "id": "3Eu87lpzUQ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:23:24.002597Z",
+        "updated_at": "2025-11-20T16:23:24.002610Z",
+        "draft_created_at": null,
+        "lead_time": 15.228,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "c42dfed7-18ef-4c10-8a00-959c0f64e9d0",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 239,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "99fc9467-226aa8c8-990d-4bd5-8b3f-0334c22cab5d.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/99fc9467-226aa8c8-990d-4bd5-8b3f-0334c22cab5d.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637768Z",
+    "updated_at": "2025-11-20T16:23:24.079314Z",
+    "inner_id": 39,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 240,
+    "annotations": [
+      {
+        "id": 140,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "lima six juliet delta zulu"
+              ]
+            },
+            "id": "iP_FezqY_C",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:23:39.404207Z",
+        "updated_at": "2025-11-20T16:23:39.404219Z",
+        "draft_created_at": null,
+        "lead_time": 15.025,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "941b6a15-1dad-4602-8157-98a60123c631",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 240,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "67b699b2-356e9165-8b4b-41ae-a901-d2b477c9ba9e.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/67b699b2-356e9165-8b4b-41ae-a901-d2b477c9ba9e.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637786Z",
+    "updated_at": "2025-11-20T16:23:39.482361Z",
+    "inner_id": 40,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 241,
+    "annotations": [
+      {
+        "id": 141,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "golf kilo eight xray xray"
+              ]
+            },
+            "id": "-gvLpBetpq",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:23:57.531980Z",
+        "updated_at": "2025-11-20T16:23:57.531993Z",
+        "draft_created_at": null,
+        "lead_time": 17.762,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "f38a0a7c-3ada-418c-8bb8-3dd488b3b4f4",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 241,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "d2b299e6-549e3ef4-1909-46ac-a32f-b00cfa26998a.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/d2b299e6-549e3ef4-1909-46ac-a32f-b00cfa26998a.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637803Z",
+    "updated_at": "2025-11-20T16:23:57.616656Z",
+    "inner_id": 41,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 242,
+    "annotations": [
+      {
+        "id": 142,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "quebec uniform alpha yankee zero"
+              ]
+            },
+            "id": "4EJ_ID7Vpd",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:24:13.467833Z",
+        "updated_at": "2025-11-20T16:24:13.467847Z",
+        "draft_created_at": null,
+        "lead_time": 15.546,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "ad334e49-8c73-4bbb-83e4-956f8669ee5f",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 242,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "d409b544-561a861d-d706-40c8-9527-e7e4c1c085cf.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/d409b544-561a861d-d706-40c8-9527-e7e4c1c085cf.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637820Z",
+    "updated_at": "2025-11-20T16:24:13.549605Z",
+    "inner_id": 42,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 243,
+    "annotations": [
+      {
+        "id": 143,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "lima kilo delta five seven"
+              ]
+            },
+            "id": "ub9omJoLzp",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:24:28.031903Z",
+        "updated_at": "2025-11-20T16:24:28.031917Z",
+        "draft_created_at": null,
+        "lead_time": 14.198,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "6d90477b-c798-4fee-ae61-4ad836bed4e7",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 243,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "fe40422c-650b97fa-d07c-46ff-85d2-0cb47a110f71.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/fe40422c-650b97fa-d07c-46ff-85d2-0cb47a110f71.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637838Z",
+    "updated_at": "2025-11-20T16:24:28.113776Z",
+    "inner_id": 43,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 244,
+    "annotations": [
+      {
+        "id": 144,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "whiskey quebec four romeo xray"
+              ]
+            },
+            "id": "EUP0zrvHmO",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:24:43.228266Z",
+        "updated_at": "2025-11-20T16:24:43.228279Z",
+        "draft_created_at": null,
+        "lead_time": 14.825,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "051ca721-cb3c-43fa-a1aa-680997ff5d58",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 244,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "e7b1060c-686d76cc-600d-45f6-b9df-eb9112ddcbc9.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/e7b1060c-686d76cc-600d-45f6-b9df-eb9112ddcbc9.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637855Z",
+    "updated_at": "2025-11-20T16:24:43.306909Z",
+    "inner_id": 44,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 245,
+    "annotations": [
+      {
+        "id": 145,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "kilo kilo six november indian"
+              ]
+            },
+            "id": "BUOmqJzK2b",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:24:57.801536Z",
+        "updated_at": "2025-11-20T16:24:57.801550Z",
+        "draft_created_at": null,
+        "lead_time": 14.198,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "bd7e4c6a-df3a-43e3-bbae-d6137e065da5",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 245,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "2ec0ba15-2290cd62-9a71-4d4d-ad92-7270825ad5c5.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/2ec0ba15-2290cd62-9a71-4d4d-ad92-7270825ad5c5.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637872Z",
+    "updated_at": "2025-11-20T16:24:57.879111Z",
+    "inner_id": 45,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 246,
+    "annotations": [
+      {
+        "id": 146,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "alpha mike kilo mike indian"
+              ]
+            },
+            "id": "h19Tw2qD9i",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:25:12.504907Z",
+        "updated_at": "2025-11-20T16:25:12.504919Z",
+        "draft_created_at": null,
+        "lead_time": 14.317,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "3bfb1fad-4975-487d-85ba-78c710eddb86",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 246,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5ff4e3c6-4302e112-ba0a-4b12-ba6e-c81572c1a6cd.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/5ff4e3c6-4302e112-ba0a-4b12-ba6e-c81572c1a6cd.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637890Z",
+    "updated_at": "2025-11-20T16:25:12.584535Z",
+    "inner_id": 46,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 247,
+    "annotations": [
+      {
+        "id": 147,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "alpha five five charlie four"
+              ]
+            },
+            "id": "M2-QNmuFDH",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:25:28.673643Z",
+        "updated_at": "2025-11-20T16:25:28.673655Z",
+        "draft_created_at": null,
+        "lead_time": 15.715,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "c5f80eb5-b700-45f8-86e9-700eeb579187",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 247,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "69d6f99e-8064f5d1-e5da-4afc-ada2-64ae2406353a.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/69d6f99e-8064f5d1-e5da-4afc-ada2-64ae2406353a.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637907Z",
+    "updated_at": "2025-11-20T16:25:28.753133Z",
+    "inner_id": 47,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 248,
+    "annotations": [
+      {
+        "id": 148,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "delta indian tango romeo juliet"
+              ]
+            },
+            "id": "S5nG12jGLk",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:25:45.633851Z",
+        "updated_at": "2025-11-20T16:25:45.633863Z",
+        "draft_created_at": null,
+        "lead_time": 16.582,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "479df030-12a4-47b3-a9d7-c527e9d7e1a4",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 248,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "61a8ce50-9276d3a4-1bae-4f19-9393-86fc0e142e71.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/61a8ce50-9276d3a4-1bae-4f19-9393-86fc0e142e71.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637924Z",
+    "updated_at": "2025-11-20T16:25:45.708783Z",
+    "inner_id": 48,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 249,
+    "annotations": [
+      {
+        "id": 149,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "golf indian seven zulu foxtrot"
+              ]
+            },
+            "id": "rzta56S2C1",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:26:01.265978Z",
+        "updated_at": "2025-11-20T16:26:01.265991Z",
+        "draft_created_at": null,
+        "lead_time": 15.24,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "9371e6d3-34dd-460a-b950-6c8be8c15b2f",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 249,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "999b8b8b-9510a161-93c9-4f39-8c63-48e86d6bdeb9.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/999b8b8b-9510a161-93c9-4f39-8c63-48e86d6bdeb9.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637941Z",
+    "updated_at": "2025-11-20T16:26:01.343177Z",
+    "inner_id": 49,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 250,
+    "annotations": [
+      {
+        "id": 150,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "tango four hotel zulu whiskey"
+              ]
+            },
+            "id": "4YLpnFCdy7",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:26:16.510484Z",
+        "updated_at": "2025-11-20T16:26:16.510497Z",
+        "draft_created_at": null,
+        "lead_time": 14.874,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "1c82acee-9c4a-45eb-acb8-4c8db9f16d6b",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 250,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "be0ec27b-9859cb09-4840-4971-af69-a7703840b7d9.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/be0ec27b-9859cb09-4840-4971-af69-a7703840b7d9.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637958Z",
+    "updated_at": "2025-11-20T16:26:16.596220Z",
+    "inner_id": 50,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 251,
+    "annotations": [
+      {
+        "id": 151,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "uniform bravo golf hotel uniform"
+              ]
+            },
+            "id": "QP8ey6675h",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:26:33.053369Z",
+        "updated_at": "2025-11-20T16:26:33.053381Z",
+        "draft_created_at": null,
+        "lead_time": 16.156,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "00bbd95f-c9fe-4aa9-afaf-b7451409da64",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 251,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "acf293e1-21564bc7-9153-4e4a-a98c-0d7f08fe7518.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/acf293e1-21564bc7-9153-4e4a-a98c-0d7f08fe7518.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637975Z",
+    "updated_at": "2025-11-20T16:26:33.135210Z",
+    "inner_id": 51,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 252,
+    "annotations": [
+      {
+        "id": 152,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "hotel lima coffin november foxtrot"
+              ]
+            },
+            "id": "sX9lb4l7_E",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:26:49.341853Z",
+        "updated_at": "2025-11-20T16:26:49.341864Z",
+        "draft_created_at": null,
+        "lead_time": 15.936,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "3a575171-47bc-4b07-aafe-5947f44faf2a",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 252,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "3184d26c-42344f20-3b79-4be3-b5df-7f7ebe92b575.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/3184d26c-42344f20-3b79-4be3-b5df-7f7ebe92b575.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.637992Z",
+    "updated_at": "2025-11-20T16:26:49.419477Z",
+    "inner_id": 52,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 253,
+    "annotations": [
+      {
+        "id": 153,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "zero bravo two alpha mike"
+              ]
+            },
+            "id": "4rJeC01sJx",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:27:05.463618Z",
+        "updated_at": "2025-11-20T16:27:05.463631Z",
+        "draft_created_at": null,
+        "lead_time": 15.742,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "e7a085c2-856b-48d8-934a-a0452ef664c4",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 253,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "a42e6f15-049560ae-7340-4c24-b0cf-a95466ee63b3.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/a42e6f15-049560ae-7340-4c24-b0cf-a95466ee63b3.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.638010Z",
+    "updated_at": "2025-11-20T16:27:05.546151Z",
+    "inner_id": 53,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 254,
+    "annotations": [
+      {
+        "id": 154,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "echo tango indian five charlie"
+              ]
+            },
+            "id": "ZfOiaNKhkx",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:27:20.591994Z",
+        "updated_at": "2025-11-20T16:27:20.592007Z",
+        "draft_created_at": null,
+        "lead_time": 14.757,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "cb79c3f3-5c06-456e-a176-962851238b15",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 254,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "310a5eb3-53475e6c-2b29-4b78-9b02-9356cf01df9a.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/310a5eb3-53475e6c-2b29-4b78-9b02-9356cf01df9a.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.638027Z",
+    "updated_at": "2025-11-20T16:27:20.674810Z",
+    "inner_id": 54,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 255,
+    "annotations": [
+      {
+        "id": 155,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "zulu two juliet xray seven"
+              ]
+            },
+            "id": "u4vPGE-fuI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:27:37.348675Z",
+        "updated_at": "2025-11-20T16:27:37.348687Z",
+        "draft_created_at": null,
+        "lead_time": 16.398,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "5bb2ff31-02d8-402b-9ecb-63699bd87c66",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 255,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "37149d1b-165588cb-3c4b-4155-85d1-ead3a3e5ac87.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/37149d1b-165588cb-3c4b-4155-85d1-ead3a3e5ac87.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.638043Z",
+    "updated_at": "2025-11-20T16:27:37.426304Z",
+    "inner_id": 55,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 256,
+    "annotations": [
+      {
+        "id": 156,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "alpha one seven five kilo"
+              ]
+            },
+            "id": "7L-PuA2_ls",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:27:53.134311Z",
+        "updated_at": "2025-11-20T16:27:53.134324Z",
+        "draft_created_at": null,
+        "lead_time": 15.408,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "5dd87751-7f4c-4843-b2f6-feaea61b0ca5",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 256,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "cb82d3df-173650a8-60c8-4b49-b90e-1bcc57466971.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/cb82d3df-173650a8-60c8-4b49-b90e-1bcc57466971.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.638060Z",
+    "updated_at": "2025-11-20T16:27:53.219965Z",
+    "inner_id": 56,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 257,
+    "annotations": [
+      {
+        "id": 157,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "four lima whiskey indian charlie"
+              ]
+            },
+            "id": "lu4QydRVzR",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:28:08.673879Z",
+        "updated_at": "2025-11-20T16:28:08.673892Z",
+        "draft_created_at": null,
+        "lead_time": 15.142,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "8b4a1664-4e3f-42e5-b932-9dbfa7a77a7b",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 257,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "43b26f39-379858a0-08ed-4b5b-8d53-ce7eef3828e6.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/43b26f39-379858a0-08ed-4b5b-8d53-ce7eef3828e6.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.638078Z",
+    "updated_at": "2025-11-20T16:28:08.751316Z",
+    "inner_id": 57,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 258,
+    "annotations": [
+      {
+        "id": 158,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "alpha xray charlie oscar one"
+              ]
+            },
+            "id": "lyuRxkypSx",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:28:23.230653Z",
+        "updated_at": "2025-11-20T16:28:23.230666Z",
+        "draft_created_at": null,
+        "lead_time": 14.192,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "20ac3258-692c-4ef6-a144-db18438f5ed0",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 258,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "9e5abe3a-566276f8-139e-418d-b738-23efed5359db.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/9e5abe3a-566276f8-139e-418d-b738-23efed5359db.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.638096Z",
+    "updated_at": "2025-11-20T16:28:23.308841Z",
+    "inner_id": 58,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 259,
+    "annotations": [
+      {
+        "id": 159,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "tango november romeo tango mike"
+              ]
+            },
+            "id": "FpYzFVI4N8",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:28:39.284724Z",
+        "updated_at": "2025-11-20T16:28:39.284737Z",
+        "draft_created_at": null,
+        "lead_time": 15.663,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "3eca63e0-8edc-4c30-b175-04cdcd48676a",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 259,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "597e4ad2-693216d3-b30f-429f-85e0-27695e8ec769.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/597e4ad2-693216d3-b30f-429f-85e0-27695e8ec769.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647008Z",
+    "updated_at": "2025-11-20T16:28:39.370912Z",
+    "inner_id": 59,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 260,
+    "annotations": [
+      {
+        "id": 160,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "foxtrot four bravo coffin eight"
+              ]
+            },
+            "id": "ZSr2F7jYy_",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:29:03.167351Z",
+        "updated_at": "2025-11-20T16:29:03.167363Z",
+        "draft_created_at": null,
+        "lead_time": 23.516,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "f479ad4e-2cda-4cc2-b2e4-c13023ec1c7e",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 260,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "a938af05-756375fb-291e-44d8-8e1a-80f567cf67af.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/a938af05-756375fb-291e-44d8-8e1a-80f567cf67af.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647054Z",
+    "updated_at": "2025-11-20T16:29:03.244415Z",
+    "inner_id": 60,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 261,
+    "annotations": [
+      {
+        "id": 161,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "xray tango juliet nine delta"
+              ]
+            },
+            "id": "8_duFqIdCP",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:29:19.133199Z",
+        "updated_at": "2025-11-20T16:29:19.133211Z",
+        "draft_created_at": null,
+        "lead_time": 15.598,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "60fdb15b-3dae-4816-b753-fd8c9b8831c5",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 261,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "0fec34ce-990726eb-7eef-4cd3-8989-cd7cef1190f7.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/0fec34ce-990726eb-7eef-4cd3-8989-cd7cef1190f7.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647077Z",
+    "updated_at": "2025-11-20T16:29:19.216422Z",
+    "inner_id": 61,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 262,
+    "annotations": [
+      {
+        "id": 162,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "whiskey two tango papa alpha"
+              ]
+            },
+            "id": "Jmx-eM3TW3",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:29:58.674837Z",
+        "updated_at": "2025-11-20T16:29:58.674849Z",
+        "draft_created_at": null,
+        "lead_time": 39.145,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "93115174-fd56-4654-b0f1-4cd28cf5325d",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 262,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "b4ba9bff-2172642e-d163-4adf-97ec-3b5272ba69c8.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/b4ba9bff-2172642e-d163-4adf-97ec-3b5272ba69c8.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647097Z",
+    "updated_at": "2025-11-20T16:29:58.750086Z",
+    "inner_id": 62,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 263,
+    "annotations": [
+      {
+        "id": 163,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "charlie one six three kilo"
+              ]
+            },
+            "id": "IcAEnF4URr",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:30:13.099899Z",
+        "updated_at": "2025-11-20T16:30:13.099911Z",
+        "draft_created_at": null,
+        "lead_time": 14.059,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "f5eb6b4b-d3e9-4236-ba42-66dd41d53f05",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 263,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "e7c57344-6257914b-ba9c-47b1-977a-fd699d43d6cd.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/e7c57344-6257914b-ba9c-47b1-977a-fd699d43d6cd.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647116Z",
+    "updated_at": "2025-11-20T16:30:13.180602Z",
+    "inner_id": 63,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 264,
+    "annotations": [
+      {
+        "id": 164,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "three alpha charlie charlie alpha"
+              ]
+            },
+            "id": "euEaObb_38",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:30:28.314807Z",
+        "updated_at": "2025-11-20T16:30:28.314820Z",
+        "draft_created_at": null,
+        "lead_time": 14.851,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "48bda31c-17c7-447a-abfb-fc951e8bdff1",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 264,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "66eb4cbd-92977878-368b-402e-994d-acdcbc4f904c.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/66eb4cbd-92977878-368b-402e-994d-acdcbc4f904c.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647135Z",
+    "updated_at": "2025-11-20T16:30:28.412561Z",
+    "inner_id": 64,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 265,
+    "annotations": [
+      {
+        "id": 165,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "charlie papa foxtrot november one"
+              ]
+            },
+            "id": "GelLLYS7R2",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:30:44.127498Z",
+        "updated_at": "2025-11-20T16:30:44.127511Z",
+        "draft_created_at": null,
+        "lead_time": 15.412,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "3cc3881d-dedc-4548-9de8-de89dd74d117",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 265,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8d95a276-a10b3851-5b26-4fe8-8097-dcbd16cf95df.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/8d95a276-a10b3851-5b26-4fe8-8097-dcbd16cf95df.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647155Z",
+    "updated_at": "2025-11-20T16:30:44.205659Z",
+    "inner_id": 65,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 266,
+    "annotations": [
+      {
+        "id": 166,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "papa alpha charlie foxtrot delta"
+              ]
+            },
+            "id": "5PVuru5bUu",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:31:00.363463Z",
+        "updated_at": "2025-11-20T16:31:00.363476Z",
+        "draft_created_at": null,
+        "lead_time": 15.873,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "473fddca-99a9-4f34-97b1-a8d85fb5e48b",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 266,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "b737b5c5-a10eaa91-c791-4639-99d9-357a53e2281a.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/b737b5c5-a10eaa91-c791-4639-99d9-357a53e2281a.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647173Z",
+    "updated_at": "2025-11-20T16:31:00.439459Z",
+    "inner_id": 66,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 267,
+    "annotations": [
+      {
+        "id": 167,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "oscar tango oscar indian one"
+              ]
+            },
+            "id": "_nED0Lxmfw",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:31:14.820840Z",
+        "updated_at": "2025-11-20T16:31:14.820852Z",
+        "draft_created_at": null,
+        "lead_time": 14.091,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "db6a1f21-48be-4374-a973-9611d6388aa7",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 267,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "1636c6b6-a58e41b4-115c-4303-aeef-c92f2e040891.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/1636c6b6-a58e41b4-115c-4303-aeef-c92f2e040891.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647192Z",
+    "updated_at": "2025-11-20T16:31:14.911109Z",
+    "inner_id": 67,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 268,
+    "annotations": [
+      {
+        "id": 168,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "mike golf kilo november golf"
+              ]
+            },
+            "id": "1oI3Pv0bgc",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:31:31.833109Z",
+        "updated_at": "2025-11-20T16:31:31.833120Z",
+        "draft_created_at": null,
+        "lead_time": 16.584,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "9962348a-34b0-4988-895a-c2bfc02857c5",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 268,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5239548c-aae014da-ee7d-4913-b302-177557ea42d3.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/5239548c-aae014da-ee7d-4913-b302-177557ea42d3.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647210Z",
+    "updated_at": "2025-11-20T16:31:31.909484Z",
+    "inner_id": 68,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 269,
+    "annotations": [
+      {
+        "id": 169,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "one zero uniform five lima"
+              ]
+            },
+            "id": "iVsTG_j63J",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:31:52.774620Z",
+        "updated_at": "2025-11-20T16:31:52.774632Z",
+        "draft_created_at": null,
+        "lead_time": 20.556,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "b955e605-6c37-49f9-ac54-f81aa79ea03b",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 269,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "254ddeac-ab442ba9-9104-45d5-a0e2-3448c6d991f3.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/254ddeac-ab442ba9-9104-45d5-a0e2-3448c6d991f3.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647229Z",
+    "updated_at": "2025-11-20T16:31:52.848674Z",
+    "inner_id": 69,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 270,
+    "annotations": [
+      {
+        "id": 170,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "four zulu five nine xray"
+              ]
+            },
+            "id": "DbjxidGMJe",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:32:08.475412Z",
+        "updated_at": "2025-11-20T16:32:08.475425Z",
+        "draft_created_at": null,
+        "lead_time": 15.343,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "002724c2-0d72-4a64-b4eb-af46027d477a",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 270,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "23371d31-ab6587c8-bb10-4062-8412-93dbda60b55f.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/23371d31-ab6587c8-bb10-4062-8412-93dbda60b55f.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647247Z",
+    "updated_at": "2025-11-20T16:32:08.554396Z",
+    "inner_id": 70,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 271,
+    "annotations": [
+      {
+        "id": 171,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "tango seven oscar romeo zero"
+              ]
+            },
+            "id": "zvX-eURH92",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:32:23.629336Z",
+        "updated_at": "2025-11-20T16:32:23.629349Z",
+        "draft_created_at": null,
+        "lead_time": 14.795,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "fd4f3bbb-0127-4961-b709-ec813f1ffd95",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 271,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "29d3c50c-ae2a71a6-d427-4413-a8a5-9cbb53fc395b.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/29d3c50c-ae2a71a6-d427-4413-a8a5-9cbb53fc395b.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647265Z",
+    "updated_at": "2025-11-20T16:32:23.708624Z",
+    "inner_id": 71,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 272,
+    "annotations": [
+      {
+        "id": 172,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "oscar oscar eight seven juliet"
+              ]
+            },
+            "id": "H5V47vcxcq",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:32:48.619759Z",
+        "updated_at": "2025-11-20T16:32:48.619772Z",
+        "draft_created_at": null,
+        "lead_time": 24.623,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "a863dd14-a3d6-4521-a323-a55266c228ba",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 272,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "9de9a835-b3a7123d-ce37-498a-a9dc-ab73b84b1133.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/9de9a835-b3a7123d-ce37-498a-a9dc-ab73b84b1133.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647309Z",
+    "updated_at": "2025-11-20T16:32:48.697023Z",
+    "inner_id": 72,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 273,
+    "annotations": [
+      {
+        "id": 173,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "delta two alpha nine foxtrot"
+              ]
+            },
+            "id": "Te7Ilill_D",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:33:04.210434Z",
+        "updated_at": "2025-11-20T16:33:04.210448Z",
+        "draft_created_at": null,
+        "lead_time": 15.206,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "e781a151-e55b-43a6-8137-19c233c79f05",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 273,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "9ea5a0f7-b05da7db-f1fc-4426-937c-3bfc152e0ab6.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/9ea5a0f7-b05da7db-f1fc-4426-937c-3bfc152e0ab6.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647327Z",
+    "updated_at": "2025-11-20T16:33:04.286117Z",
+    "inner_id": 73,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 274,
+    "annotations": [
+      {
+        "id": 174,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "victor bravo two zero victor"
+              ]
+            },
+            "id": "uABcYohKPx",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:33:19.555973Z",
+        "updated_at": "2025-11-20T16:33:19.555986Z",
+        "draft_created_at": null,
+        "lead_time": 14.973,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "7ebd9f2d-695c-48c5-a8c7-641f0419c82a",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 274,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "d0cec847-b42a583f-3a1c-4190-824b-a5bffb0709db.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/d0cec847-b42a583f-3a1c-4190-824b-a5bffb0709db.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647345Z",
+    "updated_at": "2025-11-20T16:33:19.632896Z",
+    "inner_id": 74,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 275,
+    "annotations": [
+      {
+        "id": 175,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "three foxtrot indian delta papa"
+              ]
+            },
+            "id": "cANsYmjemY",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:33:35.909029Z",
+        "updated_at": "2025-11-20T16:33:35.909042Z",
+        "draft_created_at": null,
+        "lead_time": 15.993,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "df1bf338-c81d-400e-a3b3-f66c3b864b8e",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 275,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "30016de0-b134c46b-4b21-4894-889e-cd389ed3b8d0.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/30016de0-b134c46b-4b21-4894-889e-cd389ed3b8d0.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647363Z",
+    "updated_at": "2025-11-20T16:33:35.988003Z",
+    "inner_id": 75,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 276,
+    "annotations": [
+      {
+        "id": 176,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "lima charlie quebec seven six"
+              ]
+            },
+            "id": "8OGzXvLehE",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:33:50.714526Z",
+        "updated_at": "2025-11-20T16:33:50.714539Z",
+        "draft_created_at": null,
+        "lead_time": 14.445,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "768d9a78-99c2-44fa-a0fa-12dbe12a66d6",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 276,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "1c4333e7-bc14751a-8da5-40ac-ab22-78defd722fa9.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/1c4333e7-bc14751a-8da5-40ac-ab22-78defd722fa9.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647381Z",
+    "updated_at": "2025-11-20T16:33:50.793249Z",
+    "inner_id": 76,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 277,
+    "annotations": [
+      {
+        "id": 177,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "papa papa sierra zulu sierra"
+              ]
+            },
+            "id": "cyA15GllOk",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:34:06.391193Z",
+        "updated_at": "2025-11-20T16:34:06.391208Z",
+        "draft_created_at": null,
+        "lead_time": 15.309,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "79383bc4-689c-4615-afe9-693cdc3f3ea6",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 277,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "627f135c-bd6614fe-d57f-4d24-acc9-d16957690638.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/627f135c-bd6614fe-d57f-4d24-acc9-d16957690638.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647399Z",
+    "updated_at": "2025-11-20T16:34:06.472435Z",
+    "inner_id": 77,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 278,
+    "annotations": [
+      {
+        "id": 178,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "delta papa papa delta six"
+              ]
+            },
+            "id": "jIJzN6F-zu",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:34:21.808308Z",
+        "updated_at": "2025-11-20T16:34:21.808321Z",
+        "draft_created_at": null,
+        "lead_time": 15.019,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "b7b31da0-65b4-4fbf-b47a-1c94a4f4bf16",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 278,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "c52afcb8-bd724111-5bfa-4a59-8109-31c73425ba63.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/c52afcb8-bd724111-5bfa-4a59-8109-31c73425ba63.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647417Z",
+    "updated_at": "2025-11-20T16:34:21.898138Z",
+    "inner_id": 78,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 279,
+    "annotations": [
+      {
+        "id": 179,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "one yankee papa three papa"
+              ]
+            },
+            "id": "my2cJoodfs",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:34:36.428155Z",
+        "updated_at": "2025-11-20T16:34:36.428167Z",
+        "draft_created_at": null,
+        "lead_time": 14.251,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "72e3ee2f-03e0-4218-9030-8545b98c2a5a",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 279,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5cf94570-be399b7d-9a75-49fd-b54a-c82e233ab65e.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/5cf94570-be399b7d-9a75-49fd-b54a-c82e233ab65e.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647435Z",
+    "updated_at": "2025-11-20T16:34:36.516766Z",
+    "inner_id": 79,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 280,
+    "annotations": [
+      {
+        "id": 180,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "one eight kilo golf two"
+              ]
+            },
+            "id": "jmmp1WrePg",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:34:50.431364Z",
+        "updated_at": "2025-11-20T16:34:50.431377Z",
+        "draft_created_at": null,
+        "lead_time": 13.594,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "1e2a4d7c-4e4d-4819-8ca3-8ba31b3155a4",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 280,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "cf48001e-bf7d8a94-648d-45a6-ac87-5093481a5303.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/cf48001e-bf7d8a94-648d-45a6-ac87-5093481a5303.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647453Z",
+    "updated_at": "2025-11-20T16:34:50.507107Z",
+    "inner_id": 80,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 281,
+    "annotations": [
+      {
+        "id": 181,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "echo foxtrot one kilo charlie"
+              ]
+            },
+            "id": "4kD0ZJwhyI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:35:05.771895Z",
+        "updated_at": "2025-11-20T16:35:05.771907Z",
+        "draft_created_at": null,
+        "lead_time": 14.977,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "13b68618-45be-4d2a-b13d-caad425ac5dd",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 281,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "bd4b0a1f-c7ad84f5-be7c-4f13-bbeb-6dcf464386ff.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/bd4b0a1f-c7ad84f5-be7c-4f13-bbeb-6dcf464386ff.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647471Z",
+    "updated_at": "2025-11-20T16:35:05.855145Z",
+    "inner_id": 81,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 282,
+    "annotations": [
+      {
+        "id": 182,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "golf zero whiskey bravo romeo"
+              ]
+            },
+            "id": "3ZpeGtPlCX",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:35:20.907645Z",
+        "updated_at": "2025-11-20T16:35:20.907657Z",
+        "draft_created_at": null,
+        "lead_time": 14.772,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "553a3554-7288-4a41-bd0c-830ae9d5d5c8",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 282,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "4767d58a-c6627aba-112d-453b-b6b2-d36591c852d6.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/4767d58a-c6627aba-112d-453b-b6b2-d36591c852d6.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647488Z",
+    "updated_at": "2025-11-20T16:35:20.983516Z",
+    "inner_id": 82,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 283,
+    "annotations": [
+      {
+        "id": 183,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "papa one charlie mike quebec"
+              ]
+            },
+            "id": "xIynfERA8b",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:35:36.429720Z",
+        "updated_at": "2025-11-20T16:35:36.429733Z",
+        "draft_created_at": null,
+        "lead_time": 15.144,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "02249bbf-34c9-4d1b-8b79-a4c383fe77f8",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 283,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "c8d69487-c918633e-309b-436f-88f5-b8656566dd3d.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/c8d69487-c918633e-309b-436f-88f5-b8656566dd3d.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647506Z",
+    "updated_at": "2025-11-20T16:35:36.534027Z",
+    "inner_id": 83,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 284,
+    "annotations": [
+      {
+        "id": 184,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "seven golf eight uniform zulu"
+              ]
+            },
+            "id": "YwFRVJgW3-",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:35:51.145639Z",
+        "updated_at": "2025-11-20T16:35:51.145651Z",
+        "draft_created_at": null,
+        "lead_time": 14.314,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "4a8a818c-a9be-455b-a8d3-2de64b0c4983",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 284,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "b9357e40-cc734107-31aa-49ee-9b80-48ef36b6f3b0.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/b9357e40-cc734107-31aa-49ee-9b80-48ef36b6f3b0.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647524Z",
+    "updated_at": "2025-11-20T16:35:51.225327Z",
+    "inner_id": 84,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 285,
+    "annotations": [
+      {
+        "id": 185,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "six two xray hotel indian"
+              ]
+            },
+            "id": "sGehupJBvB",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:36:07.150998Z",
+        "updated_at": "2025-11-20T16:36:07.151012Z",
+        "draft_created_at": null,
+        "lead_time": 15.625,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "09986c83-8ce0-4c62-a943-b9c8a917d7b9",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 285,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "9092eb5c-cf492ef7-fe71-4f94-91d8-a7e0da750c75.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/9092eb5c-cf492ef7-fe71-4f94-91d8-a7e0da750c75.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647542Z",
+    "updated_at": "2025-11-20T16:36:07.228785Z",
+    "inner_id": 85,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 286,
+    "annotations": [
+      {
+        "id": 186,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "six eight quebec four zulu"
+              ]
+            },
+            "id": "wCkJ70D_22",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:36:22.472141Z",
+        "updated_at": "2025-11-20T16:36:22.472155Z",
+        "draft_created_at": null,
+        "lead_time": 14.96,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "b0a14966-759a-41b4-a9ee-546b7ed16e0c",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 286,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "40b816bb-d3fdf2b5-466d-430e-871f-baa1d830918e.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/40b816bb-d3fdf2b5-466d-430e-871f-baa1d830918e.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647560Z",
+    "updated_at": "2025-11-20T16:36:22.565619Z",
+    "inner_id": 86,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 287,
+    "annotations": [
+      {
+        "id": 187,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "november six romeo papa golf"
+              ]
+            },
+            "id": "jeYcut_I9_",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:36:37.358150Z",
+        "updated_at": "2025-11-20T16:36:37.358163Z",
+        "draft_created_at": null,
+        "lead_time": 14.49,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "1ce18259-4798-4417-b102-57eadc1cbb8b",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 287,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "c6cfb354-d9bd1bdc-5f6a-4afc-aafb-149cf2f93fe3.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/c6cfb354-d9bd1bdc-5f6a-4afc-aafb-149cf2f93fe3.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647577Z",
+    "updated_at": "2025-11-20T16:36:37.437551Z",
+    "inner_id": 87,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 288,
+    "annotations": [
+      {
+        "id": 188,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "six charlie xray mike foxtrot"
+              ]
+            },
+            "id": "9QGuMQ7XOv",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:36:53.092267Z",
+        "updated_at": "2025-11-20T16:36:53.092280Z",
+        "draft_created_at": null,
+        "lead_time": 15.349,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "0d7c64df-a061-4083-b071-5761bb0a645d",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 288,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "f812a862-d34d75de-6528-49ce-99a5-2ad0bd1c0a4e.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/f812a862-d34d75de-6528-49ce-99a5-2ad0bd1c0a4e.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647595Z",
+    "updated_at": "2025-11-20T16:36:53.168043Z",
+    "inner_id": 88,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 289,
+    "annotations": [
+      {
+        "id": 189,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "charlie charlie one two indian"
+              ]
+            },
+            "id": "bOVPe0ouXz",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:37:07.273966Z",
+        "updated_at": "2025-11-20T16:37:07.273979Z",
+        "draft_created_at": null,
+        "lead_time": 13.821,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "ba928e36-47b0-4876-8de2-4afd6659533c",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 289,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "9a4ecf8a-e5f684be-d744-4fbe-9d9d-0805c9b869d1.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/9a4ecf8a-e5f684be-d744-4fbe-9d9d-0805c9b869d1.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647612Z",
+    "updated_at": "2025-11-20T16:37:07.349619Z",
+    "inner_id": 89,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 290,
+    "annotations": [
+      {
+        "id": 190,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "echo zulu tango foxtrot one"
+              ]
+            },
+            "id": "cjccO5lWLn",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:37:21.985795Z",
+        "updated_at": "2025-11-20T16:37:21.985808Z",
+        "draft_created_at": null,
+        "lead_time": 14.33,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "9f4a2cf1-8299-4d2e-8de6-95a4013054ba",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 290,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "43644acd-e36e953a-ece2-417f-a32c-fabd31b1b501.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/43644acd-e36e953a-ece2-417f-a32c-fabd31b1b501.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647630Z",
+    "updated_at": "2025-11-20T16:37:22.062035Z",
+    "inner_id": 90,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 291,
+    "annotations": [
+      {
+        "id": 191,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "sierra sierra kilo nine oscar"
+              ]
+            },
+            "id": "E9ogXzqr1l",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:37:37.431896Z",
+        "updated_at": "2025-11-20T16:37:37.431909Z",
+        "draft_created_at": null,
+        "lead_time": 15.081,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "555f34e3-d1ee-40f2-92a4-e3979bfe7681",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 291,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "be8b588b-e714fbc0-230f-45a3-8d25-1c19facf99ef.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/be8b588b-e714fbc0-230f-45a3-8d25-1c19facf99ef.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647647Z",
+    "updated_at": "2025-11-20T16:37:37.508935Z",
+    "inner_id": 91,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 292,
+    "annotations": [
+      {
+        "id": 192,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "delta charlie tango tango zero"
+              ]
+            },
+            "id": "KoPgiJL71z",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:37:55.650326Z",
+        "updated_at": "2025-11-20T16:37:55.650338Z",
+        "draft_created_at": null,
+        "lead_time": 17.825,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "d199ef30-6973-4973-b1f2-e67acf387a0e",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 292,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "b6f9b2e2-e4170be8-8c8b-4932-b1f5-3c7a1d1d0ed3.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/b6f9b2e2-e4170be8-8c8b-4932-b1f5-3c7a1d1d0ed3.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647665Z",
+    "updated_at": "2025-11-20T16:37:55.728662Z",
+    "inner_id": 92,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 293,
+    "annotations": [
+      {
+        "id": 193,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "kilo romeo alpha victor tango"
+              ]
+            },
+            "id": "T38eDf56rh",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:38:11.394306Z",
+        "updated_at": "2025-11-20T16:38:11.394319Z",
+        "draft_created_at": null,
+        "lead_time": 15.345,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "b25bed7d-be72-46a0-b6e0-9463f7e84f05",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 293,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "7862a703-ee62a9de-5fcb-4f5e-94f7-4a5116778285.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/7862a703-ee62a9de-5fcb-4f5e-94f7-4a5116778285.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647683Z",
+    "updated_at": "2025-11-20T16:38:11.495307Z",
+    "inner_id": 93,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 294,
+    "annotations": [
+      {
+        "id": 194,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "foxtrot sierra echo oscar juliet"
+              ]
+            },
+            "id": "qTVsnFxyi4",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:38:28.784147Z",
+        "updated_at": "2025-11-20T16:38:28.784159Z",
+        "draft_created_at": null,
+        "lead_time": 16.982,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "435aa28d-a824-4253-8dce-dffa8f9591f5",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 294,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "3192f467-f1b5ac7a-0427-4dcb-a03e-7da534969706.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/3192f467-f1b5ac7a-0427-4dcb-a03e-7da534969706.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647700Z",
+    "updated_at": "2025-11-20T16:38:28.858734Z",
+    "inner_id": 94,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 295,
+    "annotations": [
+      {
+        "id": 195,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "yankee eight bravo lima golf"
+              ]
+            },
+            "id": "iJ2f-pLOjS",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:38:46.935707Z",
+        "updated_at": "2025-11-20T16:38:46.935719Z",
+        "draft_created_at": null,
+        "lead_time": 17.798,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "c6508274-2dfb-4523-8193-b68c35bcbdd5",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 295,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "dca6f9fd-f58b83bd-821d-44b1-bc7b-a4e0e0add216.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/dca6f9fd-f58b83bd-821d-44b1-bc7b-a4e0e0add216.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647718Z",
+    "updated_at": "2025-11-20T16:38:47.015277Z",
+    "inner_id": 95,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 296,
+    "annotations": [
+      {
+        "id": 196,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "five charlie tango two romeo"
+              ]
+            },
+            "id": "7WbwjduV4P",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:39:02.049228Z",
+        "updated_at": "2025-11-20T16:39:02.049240Z",
+        "draft_created_at": null,
+        "lead_time": 14.744,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "26866488-fa14-4b22-bb63-4bd523ebb5b7",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 296,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "98498b65-fb04ddb2-5f56-421a-8b88-ede06df3819b.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/98498b65-fb04ddb2-5f56-421a-8b88-ede06df3819b.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647735Z",
+    "updated_at": "2025-11-20T16:39:02.149893Z",
+    "inner_id": 96,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 297,
+    "annotations": [
+      {
+        "id": 197,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "lima kilo indian delta quebec"
+              ]
+            },
+            "id": "ZqNobrkE06",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:39:17.616318Z",
+        "updated_at": "2025-11-20T16:39:17.616330Z",
+        "draft_created_at": null,
+        "lead_time": 15.164,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "0d89bdd3-c684-49c0-8d3b-f5f0eab76916",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 297,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "275e39f8-fca5de1e-0211-4f86-a531-b3fafa39be84.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/275e39f8-fca5de1e-0211-4f86-a531-b3fafa39be84.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647753Z",
+    "updated_at": "2025-11-20T16:39:17.699484Z",
+    "inner_id": 97,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 298,
+    "annotations": [
+      {
+        "id": 198,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "golf xray juliet tango xray"
+              ]
+            },
+            "id": "-kct5KAHKF",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:39:34.613831Z",
+        "updated_at": "2025-11-20T16:39:34.613844Z",
+        "draft_created_at": null,
+        "lead_time": 16.622,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "5bd35a7d-d7d9-441a-ab48-73dcd295ab41",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 298,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "451438ae-fe3c5343-3e78-4603-b73d-c7a24adcfd0d.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/451438ae-fe3c5343-3e78-4603-b73d-c7a24adcfd0d.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647770Z",
+    "updated_at": "2025-11-20T16:39:34.691829Z",
+    "inner_id": 98,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 299,
+    "annotations": [
+      {
+        "id": 199,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "kilo six seven mike juliet"
+              ]
+            },
+            "id": "z-1DJesqXB",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:39:50.126732Z",
+        "updated_at": "2025-11-20T16:39:50.126744Z",
+        "draft_created_at": null,
+        "lead_time": 15.118,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "ca90af84-11b1-43ac-a01e-5b6c7851ce85",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 299,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "ba79de06-fe6ff4c4-ec4e-47c4-bb55-c395097a08f8.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/ba79de06-fe6ff4c4-ec4e-47c4-bb55-c395097a08f8.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647788Z",
+    "updated_at": "2025-11-20T16:39:50.204826Z",
+    "inner_id": 99,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 300,
+    "annotations": [
+      {
+        "id": 200,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "six two six one quebec"
+              ]
+            },
+            "id": "UoqbCOU9LM",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-11-20T16:40:05.685839Z",
+        "updated_at": "2025-11-20T16:40:05.685850Z",
+        "draft_created_at": null,
+        "lead_time": 15.174,
+        "prediction": {},
+        "result_count": 1,
+        "unique_id": "4c02f0a2-4bb4-48b1-8303-31e7643e2675",
+        "import_id": null,
+        "last_action": null,
+        "bulk_created": false,
+        "task": 300,
+        "project": 2,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "a0251b21-ffb1a5f4-dc03-43c0-aea9-02561e7fa412.wav",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "audio": "\/data\/upload\/2\/a0251b21-ffb1a5f4-dc03-43c0-aea9-02561e7fa412.wav"
+    },
+    "meta": {},
+    "created_at": "2025-11-19T20:20:14.647805Z",
+    "updated_at": "2025-11-20T16:40:05.764857Z",
+    "inner_id": 100,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "comment_authors": []
+  }
+]

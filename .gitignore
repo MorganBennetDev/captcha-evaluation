@@ -13,4 +13,5 @@ wheels/
 .env
 
 # Data
-captchas/*
+captchas/.env
+captchas/*.sqlite3
