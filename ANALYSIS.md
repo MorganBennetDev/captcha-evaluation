@@ -49,3 +49,16 @@ A second analysis was run against 100 CAPTCHA examples, excluding the GPT-5 mode
 | `whisper-1`              | Audio    | 1.46s        | 100%     | \$1.0990           | 1.00              | 1.46s               | \$1.0990                   |
 
 Based on these results, `gpt-4.1-nano` is the best model if price is the primary consideration and `gpt-4o-mini-transcribe` is the fastest and cheapest model with 100% accuracy. The `gpt-4.1-mini` model provides a good middle ground between accuracy and performance. In my opinion, performance is the primary consideration since failing a CAPTCHA may lead to the server flagging our scraper, which will cause future problems so I recommend `gpt-4o-mini-transcribe`, but I am open to other opinions.
+
+# Commercial Alternatives
+
+For the sake of completeness, commercial CAPTCHA solving services were also evaluated. These would have the advantage of being more resilient to potential future changes to what variety of CAPTCHA is in use, and any code would be applicable more broadly than just the SCOTUS notification subscription page. Three main services were considered: [Capsolver](https://www.capsolver.com) and [AZcaptcha](https://azcaptcha.com). Other services are available, but these were the only two found with competitive response times and pricing to OpenAI-based solving.
+
+| Service   | \$/1,000 images | Time/solve | Accuracy | Expected attempts | Expected \$/1,000 solves | Expected time/solve |
+|-----------|-----------------|------------|----------|-------------------|--------------------------|---------------------|
+| AZCaptcha | $0.40           | 0.1-0.5s   | 95%      | 1.05              | $0.42                    | 0.1-0.5s            |
+| Capsolver | $0.40           | <1s        | 90%      | 1.11              | $0.44                    | <1.1s               |
+
+AZCaptcha does not offer significantly better pricing or speed than OpenAI--and anecdotally, its website looks sketchy--so I recommend against them.
+
+Capsolver claims to be used by a variety of universities and other organizations that regularly need to perform web scraping. They also seem to have good API documentation. While they may be slightly slower than `gpt-4o-mini-transcribe` in the worst case, they have competitive pricing and are not subject to unexpectedly breaking if SCOTUS stops using Kendo CAPTCHAs.
